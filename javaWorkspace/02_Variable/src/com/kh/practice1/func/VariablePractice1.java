@@ -22,7 +22,7 @@ public class VariablePractice1 {
 	double height = sc.nextDouble();
 	
 	System.out.println("키 " + height + "인 " + age + "살 " + gender + "자 "
-			+ name + "님 반갑습니다 ^^" );
+			+ name + "님 반갑습니다 ^,^" );
 	}
 	
 	
